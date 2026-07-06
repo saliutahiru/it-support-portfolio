@@ -6,15 +6,13 @@ This is the file GitHub shows automatically when someone opens your
 repository. Think of it as the "homepage" of your portfolio.
 
 Everything between <!-- and --> is a COMMENT. Comments are invisible
-on GitHub — they only show up when someone edits the raw file. I've
-left comments throughout so you know what each part does. You can
-delete them once you're comfortable, or leave them — they won't hurt
-anything.
+
+
 ==================================================================== -->
 
 <div align="center">
 
-# 🖥️ [Your Name] — IT Support Analyst Portfolio
+# 🖥️ SALIU TAHIRU  — IT Support Analyst Portfolio
 
 ### Hands-on IT Support, Troubleshooting & Documentation Projects
 
