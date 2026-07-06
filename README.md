@@ -1,16 +1,4 @@
-<!--
-====================================================================
-README.md — Main Portfolio Page
-====================================================================
-This is the file GitHub shows automatically when someone opens your
-repository. Think of it as the "homepage" of your portfolio.
 
-Everything between <!-- and --> is a COMMENT. Comments are invisible
-
-
-==================================================================== -->
-
-<div align="center">
 
 # 🖥️ SALIU TAHIRU  — IT Support Analyst Portfolio
 
