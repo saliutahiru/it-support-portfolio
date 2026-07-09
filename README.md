@@ -176,23 +176,6 @@ The goal is simple: **show real IT support skill through real, documented work**
 - PowerShell scripting basics
 - CompTIA A+ exam prep
 
----
-
-## 📂 Repository Structure
-Repository/
-├── README.md            → This file — the main portfolio page
-├── Projects/             → Full write-ups for each completed project
-├── Scripts/              → PowerShell / Batch scripts
-├── Documentation/        → SOPs, config guides, troubleshooting guides
-├── Screenshots/          → Images used across projects and docs
-├── Diagrams/              → Network diagrams, flowcharts, architecture visuals
-├── Templates/            → Reusable templates (like the project template)
-├── Assets/                → Logos, icons, or other supporting files
-├── Resources/            → Cheat sheets, reference material, useful links
-├── Labs/                  → Lab environments and their write-ups
-└── Notes/                 → Personal study notes
-
----
 
 ## 📬 Contact Information
 
