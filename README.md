@@ -24,14 +24,13 @@ If you're a recruiter, hiring manager, or fellow IT professional — welcome. Ev
 
 - [About This Repository](#-about-this-repository)
 - [Skills Demonstrated](#-skills-demonstrated)
-- [Project Portfolio](#-project-portfolio)
+
 - [Lab Projects](#-lab-projects)
 - [Scripts](#-scripts)
 - [Troubleshooting Guides](#-troubleshooting-guides)
 - [Documentation](#-documentation)
 - [Certifications](#-certifications)
 - [Learning Roadmap](#-learning-roadmap)
-- [Repository Structure](#-repository-structure)
 - [Contact](#-contact-information)
 
 ---
